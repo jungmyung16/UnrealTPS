@@ -10,7 +10,7 @@ UPlayerBaseComponent::UPlayerBaseComponent()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = false;
 
-	// InitializeComponent() ÇÔ¼ö°¡ È£ÃâµÇµµ·Ï true¸¦ ÇÒ´ç
+	// InitializeComponent() ï¿½Ô¼ï¿½ï¿½ï¿½ È£ï¿½ï¿½Çµï¿½ï¿½ï¿½ trueï¿½ï¿½ ï¿½Ò´ï¿½
 	bWantsInitializeComponent = true;
 	// ...
 }
